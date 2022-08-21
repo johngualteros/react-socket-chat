@@ -1,3 +1,8 @@
+# Chatapp node express react socket.io and tailwind
+
+![](socket_01.png)
+![](socket_02.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
